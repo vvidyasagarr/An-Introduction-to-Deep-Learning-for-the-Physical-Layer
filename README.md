@@ -8,4 +8,5 @@ The following repository presents an extension of the research paper "An Introdu
 
 References:
 https://ieeexplore.ieee.org/document/8054694
+
 https://github.com/immortal3/AutoEncoder-Based-Communication-System
